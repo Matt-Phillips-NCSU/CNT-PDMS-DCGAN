@@ -1,0 +1,15 @@
+artifact_uri: file:///gpfs_common/share02/zikry/mphilli2/NSF_Ribbing/GAN_PyTorch/DCGAN_320Pix/FinalTrain/mlruns/338740556009926959/13d6bdbbabe5491aa1634c4d17d7ea03/artifacts
+end_time: 1731233983131
+entry_point_name: ''
+experiment_id: '338740556009926959'
+lifecycle_stage: active
+run_id: 13d6bdbbabe5491aa1634c4d17d7ea03
+run_name: dashing-stag-818
+run_uuid: 13d6bdbbabe5491aa1634c4d17d7ea03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731017279059
+status: 3
+tags: []
+user_id: mphilli2

@@ -1,0 +1,6 @@
+artifact_location: file:///gpfs_common/share02/zikry/mphilli2/NSF_Ribbing/GAN_PyTorch/DCGAN_320Pix/FinalTrain/mlruns/338740556009926959
+creation_time: 1730842887124
+experiment_id: '338740556009926959'
+last_update_time: 1730842887124
+lifecycle_stage: active
+name: HPC_4Layer_FinalTrainAndTest
