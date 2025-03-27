@@ -1,0 +1,15 @@
+artifact_uri: file:///gpfs_common/share02/zikry/mphilli2/NSF_Ribbing/GAN_PyTorch/DCGAN_320Pix/FinalTrain/mlruns/338740556009926959/a8641a1182564eecba840d7e7dc666d1/artifacts
+end_time: 1731016149588
+entry_point_name: ''
+experiment_id: '338740556009926959'
+lifecycle_stage: active
+run_id: a8641a1182564eecba840d7e7dc666d1
+run_name: receptive-jay-461
+run_uuid: a8641a1182564eecba840d7e7dc666d1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730842892821
+status: 3
+tags: []
+user_id: mphilli2
