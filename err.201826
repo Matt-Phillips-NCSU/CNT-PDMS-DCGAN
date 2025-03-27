@@ -1,0 +1,5 @@
+2024/11/05 16:41:27 INFO mlflow.tracking.fluent: Experiment with name 'HPC_4Layer_FinalTrainAndTest' does not exist. Creating a new experiment.
+2024/11/07 16:47:06 WARNING mlflow.utils.environment: Encountered an unexpected error while inferring pip requirements (model URI: /share/zikry/mphilli2/tmp/tmp8owtpjwj/model/data, flavor: pytorch). Fall back to return ['torch==2.4.1', 'cloudpickle==3.0.0']. Set logging level to DEBUG to see the full traceback. 
+2024/11/07 16:47:06 WARNING mlflow.models.model: Model logged without a signature and input example. Please set `input_example` parameter when logging the model to auto infer the model signature.
+2024/11/07 16:49:06 WARNING mlflow.utils.environment: Encountered an unexpected error while inferring pip requirements (model URI: /share/zikry/mphilli2/tmp/tmpch0sf3l2/model/data, flavor: pytorch). Fall back to return ['torch==2.4.1', 'cloudpickle==3.0.0']. Set logging level to DEBUG to see the full traceback. 
+2024/11/07 16:49:07 WARNING mlflow.models.model: Model logged without a signature and input example. Please set `input_example` parameter when logging the model to auto infer the model signature.
